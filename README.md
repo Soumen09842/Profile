@@ -1,1 +1,1 @@
-profile-pagd
+profile-page
